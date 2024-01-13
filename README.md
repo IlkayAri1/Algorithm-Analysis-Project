@@ -7,7 +7,8 @@ Beril Mercan's Github Account:[
 
 Duygu Polat's Github Link:
 
-İlkay Arı's Github Link:
+İlkay Arı's Github Link:[
+(https://github.com/IlkayAri1)]
 
 We also express our gratitude to the teacher of this class, Evrim Güler. For his teachings and efforts, and all his assignments he tasked us with, prepared us for this project. Dr. Evrim Güler's account: [
 (https://github.com/evrimguler) ]
