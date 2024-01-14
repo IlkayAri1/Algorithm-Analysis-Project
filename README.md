@@ -5,7 +5,8 @@ Beril Mercan's Github Account:[
 (https://github.com/BerilMercan)]
 
 
-Duygu Polat's Github Link:
+Duygu Polat's Github Link:[
+(https://github.com/Duygupolat02)]
 
 İlkay Arı's Github Link:[
 (https://github.com/IlkayAri1)]
